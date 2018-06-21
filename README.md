@@ -7,3 +7,10 @@ The everything included AC outlet.
 - Power Monitoring
 - WiFi
 - Bluetooth
+- USB 2.0 (2)
+- LED status indicators
+- MODBUS
+
+
+
+
